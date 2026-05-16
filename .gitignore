@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+data/
+templates/
+RAG.pdf
+10.pdf
+test.py
+pdfpl.py
+pdf2im.py
+.env
